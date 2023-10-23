@@ -1,0 +1,41 @@
+body{
+    background-image: url(/assets/img/fondo\ binari.jpg);
+    margin: 0; /* Elimina los márgenes predeterminados */
+    padding: 0; /* Elimina el relleno predeterminado */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Aplicar estilos al texto en la barra de navegación */
+.navbar {
+    color: white; /* Color de fuente blanco */
+}
+
+/* También puedes especificar el color de fuente de forma más específica para los enlaces del menú */
+.navbar a {
+    color: red; /* Color de fuente blanco para los enlaces del menú */
+}
+
+.imageMe-container{
+    /* display: flex; */
+    height: 100vh;  
+    align-items: center;
+}
+
+.imageMe{
+    border-radius: 50%;
+    margin-left: 45%;
+
+    max-width: 200px; /* Ajusta el tamaño máximo al ancho del contenedor */
+    height: auto; 
+}
+
+h1{
+    text-align: center;
+    color: white;
+    size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 4em;
+
+} 

@@ -1,0 +1,12 @@
+body{
+    background-image: url("/assets/img/Atardecer\ fondo\ de\ bikini.jpg");
+    background-size:1500px, 900px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-x: hidden;
+    
+}
+*{
+    color: rgb(210, 210, 211);
+    text-align: center;
+    padding: 6px;
+}
